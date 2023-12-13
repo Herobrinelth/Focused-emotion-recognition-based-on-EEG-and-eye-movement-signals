@@ -1,6 +1,6 @@
 # Transformer parameters
 # Classes (3 emotions: -1 negative, 0 neutral, 1 positive)
-CLASSES = 3
+CLASSES = 2
 # Optimizer type
 OPTIMIZER = "AdamW"
 # Dropout rate
